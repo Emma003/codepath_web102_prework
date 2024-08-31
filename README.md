@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/kKI20Et' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-If the GIF above doesn't show, please see https://imgur.com/a/kKI20Et 
+<img src='https://drive.google.com/file/d/1fT2LqnykFFtL8rzKM1CzmFgBFOcfNNjd/view' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+If the GIF above doesn't show, please see https://drive.google.com/file/d/1fT2LqnykFFtL8rzKM1CzmFgBFOcfNNjd/view
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
